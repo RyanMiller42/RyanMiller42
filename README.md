@@ -1,4 +1,4 @@
-## Hi there 👋
+## 1st Year Computer Science and Business Administration Major at Northeastern 👋
 
 <!--
 **RyanMiller42/RyanMiller42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
